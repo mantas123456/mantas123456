@@ -11,6 +11,7 @@ Measurement scientist and laboratory quality professional in Malta, working with
 
 | Project | What it shows |
 |---|---|
+| [lab-quality-toolkit](https://github.com/mantas123456/lab-quality-toolkit) | GUM uncertainty budgets, method validation, PT scores, Westgard QC rules and emission conversions as a tested Python package |
 | [energy-forecasting-dashboard](https://github.com/mantas123456/energy-forecasting-dashboard) | Day-ahead demand forecasting with leak-free features, rolling backtest and naive baselines |
 | [f1-podium-prediction](https://github.com/mantas123456/f1-podium-prediction) | Finding and removing data leakage; season-based testing against a simple baseline |
 | [NLP_Player_Feedback_Analysis](https://github.com/mantas123456/NLP_Player_Feedback_Analysis) | Topic tagging and sentiment checked against hand labels |
