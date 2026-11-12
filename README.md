@@ -1,0 +1,20 @@
+### Mantas Valantinavičius
+
+Measurement scientist and laboratory quality professional in Malta, working with data.
+
+- 14+ years in energy and environmental testing: ISO/IEC 17025 accreditation, emissions
+  measurement, thermal analysis (TGA-GC-MS, DSC), test rigs and data acquisition
+- CFD and extended DEM modelling of combustion and gasification
+- Python for forecasting, model validation and reporting automation
+
+**Projects**
+
+| Project | What it shows |
+|---|---|
+| [energy-forecasting-dashboard](https://github.com/mantas123456/energy-forecasting-dashboard) | Day-ahead demand forecasting with leak-free features, rolling backtest and naive baselines |
+| [f1-podium-prediction](https://github.com/mantas123456/f1-podium-prediction) | Finding and removing data leakage; season-based testing against a simple baseline |
+| [NLP_Player_Feedback_Analysis](https://github.com/mantas123456/NLP_Player_Feedback_Analysis) | Topic tagging and sentiment checked against hand labels |
+
+**Tools:** Python (pandas, scikit-learn, XGBoost, Streamlit), Power BI, OpenFOAM, pytest, GitHub Actions
+
+[CV and portfolio](https://mantas123456.github.io) · [LinkedIn](https://www.linkedin.com/in/mantas-valantinavicius)
