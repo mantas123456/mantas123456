@@ -11,6 +11,7 @@ Measurement scientist and laboratory quality professional in Malta, working with
 
 | Project | What it shows |
 |---|---|
+| [esg-workflows-handbook](https://mantas123456.github.io/esg-workflows-handbook/) | Free handbook of step-by-step workflows for CBAM, Scope 3, VSME and CSRD/ESRS: regulatory facts tracked with sources, worked examples recomputed in CI |
 | [lab-quality-toolkit](https://github.com/mantas123456/lab-quality-toolkit) | GUM uncertainty budgets, method validation, PT scores, Westgard QC rules and emission conversions as a tested Python package |
 | [energy-data-pipeline](https://github.com/mantas123456/energy-data-pipeline) | ENTSO-E load data into PostgreSQL with idempotent upserts, SQL marts, quality checks and CI integration tests |
 | [energy-forecasting-dashboard](https://github.com/mantas123456/energy-forecasting-dashboard) | Day-ahead demand forecasting with leak-free features, rolling backtest and naive baselines |
