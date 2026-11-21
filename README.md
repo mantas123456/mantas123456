@@ -2,7 +2,7 @@
 
 Measurement scientist and laboratory quality professional in Malta, working with data.
 
-- 14+ years in energy and environmental testing: ISO/IEC 17025 accreditation, emissions
+- 14 years in research and testing labs (2011–2025): ISO/IEC 17025 accreditation, emissions
   measurement, thermal analysis (TGA-GC-MS, DSC), test rigs and data acquisition
 - CFD and extended DEM modelling of combustion and gasification
 - Python for forecasting, model validation and reporting automation
