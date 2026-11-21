@@ -1,23 +1,34 @@
 ### Mantas Valantinavičius
 
-Measurement scientist and laboratory quality professional in Malta, working with data.
+Measurement scientist in Malta working on laboratory quality and environmental compliance data.
 
-- 14 years in research and testing labs (2011–2025): ISO/IEC 17025 accreditation, emissions
-  measurement, thermal analysis (TGA-GC-MS, DSC), test rigs and data acquisition
-- CFD and extended DEM modelling of combustion and gasification
-- Python for forecasting, model validation and reporting automation
+- 14 years in research and testing labs (2011–2025). Part of the team that took solid biofuel and SRF (solid recovered fuel) testing through ISO/IEC 17025 accreditation, start to finish
+- Emissions measurement against regulatory limits; fuel, ash, residue and sewage sludge analysis (ICP-OES, ion chromatography, CHN/S, calorimetry, TGA-GC-MS, DSC)
+- Since 2025: packaging-waste reporting for the Lithuanian GPAIS register, and EU sustainability reporting workflows (CBAM, Scope 3, CSRD)
+- Python, SQL and Power BI for monitoring, validation and reporting automation; CFD and XDEM modelling
 
-**Projects**
+**Environmental compliance**
 
 | Project | What it shows |
-|---|---|
-| [esg-workflows-handbook](https://mantas123456.github.io/esg-workflows-handbook/) | Free handbook of step-by-step workflows for CBAM, Scope 3, VSME and CSRD/ESRS: regulatory facts tracked with sources, worked examples recomputed in CI |
-| [lab-quality-toolkit](https://github.com/mantas123456/lab-quality-toolkit) | GUM uncertainty budgets, method validation, PT scores, Westgard QC rules and emission conversions as a tested Python package |
-| [energy-data-pipeline](https://github.com/mantas123456/energy-data-pipeline) | ENTSO-E load data into PostgreSQL with idempotent upserts, SQL marts, quality checks and CI integration tests |
-| [energy-forecasting-dashboard](https://github.com/mantas123456/energy-forecasting-dashboard) | Day-ahead demand forecasting with leak-free features, rolling backtest and naive baselines |
+| --- | --- |
+| [esg-workflows-handbook](https://mantas123456.github.io/esg-workflows-handbook/) | Step-by-step CBAM, Scope 3, VSME and CSRD/ESRS workflows for EU SMEs. Regulatory facts tracked with sources and check dates, worked examples recomputed in CI. CBAM and Scope 3 drafted, CSRD in progress |
+
+**Laboratory quality**
+
+| Project | What it shows |
+| --- | --- |
+| [lab-quality-toolkit](https://github.com/mantas123456/lab-quality-toolkit) | `labqc` on PyPI: GUM uncertainty budgets, method validation, PT scores, Westgard QC rules and emission conversions. Tested, with a browser app and a validation report |
+| [lab-accreditation-handbook](https://mantas123456.github.io/lab-accreditation-handbook/) | Free practical ISO/IEC 17025 guide: a page per clause, editable templates, gap-analysis and audit-planning tools |
+
+**Data engineering and modelling**
+
+| Project | What it shows |
+| --- | --- |
+| [energy-data-pipeline](https://github.com/mantas123456/energy-data-pipeline) | ENTSO-E load data into PostgreSQL with idempotent upserts, SQL marts, data-quality checks and CI integration tests |
+| [energy-forecasting-dashboard](https://github.com/mantas123456/energy-forecasting-dashboard) | Day-ahead demand forecasting with leak-free features, rolling backtest, naive baselines and an honest comparison with the grid operator's forecast |
 | [f1-podium-prediction](https://github.com/mantas123456/f1-podium-prediction) | Finding and removing data leakage; season-based testing against a simple baseline |
 | [NLP_Player_Feedback_Analysis](https://github.com/mantas123456/NLP_Player_Feedback_Analysis) | Topic tagging and sentiment checked against hand labels |
 
-**Tools:** Python (pandas, scikit-learn, XGBoost, Streamlit), SQL/PostgreSQL, Docker, Power BI, OpenFOAM, pytest, GitHub Actions
+**Tools:** Python (pandas, scikit-learn, XGBoost, Streamlit), SQL/PostgreSQL, Docker, Power BI, MkDocs, OpenFOAM, pytest, GitHub Actions
 
-[CV and portfolio](https://mantas123456.github.io) · [LinkedIn](https://www.linkedin.com/in/mantas-valantinavicius)
+[CV and portfolio](https://mantas123456.github.io) · [LinkedIn](https://www.linkedin.com/in/mantas-valantinavicius) · [Email](mailto:mantas.valantinavicius@gmail.com)
