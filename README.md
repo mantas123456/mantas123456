@@ -19,6 +19,7 @@ Measurement scientist in Malta working on laboratory quality and environmental c
 | --- | --- |
 | [lab-quality-toolkit](https://github.com/mantas123456/lab-quality-toolkit) | `labqc` on PyPI: GUM uncertainty budgets, method validation, PT scores, Westgard QC rules and emission conversions. Tested, with a browser app and a validation report |
 | [lab-accreditation-handbook](https://mantas123456.github.io/lab-accreditation-handbook/) | Free practical ISO/IEC 17025 guide: a page per clause, editable templates, gap-analysis and audit-planning tools |
+| [measurement-uncertainty-handbook](https://mantas123456.github.io/measurement-uncertainty-handbook/) | Method validation and measurement uncertainty (GUM, Nordtest, Monte Carlo, bootstrap) with Python notebooks on synthetic data, calculated with `labqc`; CI runs every notebook before publishing. Early draft, first chapters in progress |
 
 **Data engineering and modelling**
 
