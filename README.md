@@ -1,17 +1,12 @@
 ### Mantas Valantinavičius
 
-Measurement scientist in Malta working on laboratory quality and environmental compliance data.
+Measurement scientist in Malta: laboratory quality and measurement, with Python and SQL for the data.
 
 - 14 years in research and testing labs (2011–2025). Part of the team that took solid biofuel and SRF (solid recovered fuel) testing through ISO/IEC 17025 accreditation, start to finish
-- Emissions measurement against regulatory limits; fuel, ash, residue and sewage sludge analysis (ICP-OES, ion chromatography, CHN/S, calorimetry, TGA-GC-MS, DSC)
-- Since 2025: packaging-waste reporting for the Lithuanian GPAIS register, and EU sustainability reporting workflows (CBAM, Scope 3, CSRD)
+- Accredited fuel methods run hands-on (calorimetry, ICP-OES, ion chromatography, CHNS); emissions measurement against regulatory limits; TGA-GC-MS and DSC
+- Acting laboratory manager at the University of Malta (2019–2023): set up Raman, ESEM, portable XRD and XRF, wrote their SOPs; CFD of the megalithic temples validated against field sensors
+- Since 2025: packaging-waste reporting for the Lithuanian GPAIS register; writing a handbook on EU sustainability reporting (CBAM, Scope 3, CSRD)
 - Python, SQL and Power BI for monitoring, validation and reporting automation; CFD and XDEM modelling
-
-**Environmental compliance**
-
-| Project | What it shows |
-| --- | --- |
-| [esg-workflows-handbook](https://mantas123456.github.io/esg-workflows-handbook/) | Step-by-step CBAM, Scope 3, VSME and CSRD/ESRS workflows for EU SMEs. Regulatory facts tracked with sources and check dates, worked examples recomputed in CI. CBAM and Scope 3 drafted, CSRD in progress |
 
 **Laboratory quality**
 
@@ -29,6 +24,12 @@ Measurement scientist in Malta working on laboratory quality and environmental c
 | [energy-forecasting-dashboard](https://github.com/mantas123456/energy-forecasting-dashboard) | Day-ahead demand forecasting with leak-free features, rolling backtest, naive baselines and an honest comparison with the grid operator's forecast |
 | [f1-podium-prediction](https://github.com/mantas123456/f1-podium-prediction) | Finding and removing data leakage; season-based testing against a simple baseline |
 | [NLP_Player_Feedback_Analysis](https://github.com/mantas123456/NLP_Player_Feedback_Analysis) | Topic tagging and sentiment checked against hand labels |
+
+**Environmental compliance (in progress)**
+
+| Project | What it shows |
+| --- | --- |
+| [esg-workflows-handbook](https://mantas123456.github.io/esg-workflows-handbook/) | Step-by-step CBAM, Scope 3, VSME and CSRD/ESRS workflows for EU SMEs. Regulatory facts tracked with sources and check dates, worked examples recomputed in CI. CBAM and Scope 3 drafted, CSRD in progress |
 
 **Tools:** Python (pandas, scikit-learn, XGBoost, Streamlit), SQL/PostgreSQL, Docker, Power BI, MkDocs, OpenFOAM, pytest, GitHub Actions
 
